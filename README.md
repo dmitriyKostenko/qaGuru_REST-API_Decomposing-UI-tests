@@ -1,5 +1,3 @@
-# qaGuru_REST-API_Decomposing-UI-tests
-
 # REST API. Декомпозируем UI-тесты.
 
 ## Домашнее задание:
